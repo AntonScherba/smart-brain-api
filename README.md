@@ -1,4 +1,5 @@
 # SmartBrain-api
+Demo link https://smart-brain-course-project.herokuapp.com/
 Final project for ZTM course
 
 1. Clone this repo
